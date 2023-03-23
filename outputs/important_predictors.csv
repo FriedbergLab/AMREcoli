@@ -1,0 +1,32 @@
+breakpoint,mic_id,gene
+clsi,amikacin,"AAC(3)-VIa, AAC(6')-IIc, AAC(6')-Ib', AAC(6')-Ib-cr, AAC(6')-Ib-cr5, AAC(6')-Ib4, binary, count"
+clsi,amoxicillin_clavulanic_acid,"CTX-M-14, binary, blaEC, blaTEM-1, blaTEM-1B, blaTEM-1C, blaTEM-235, count"
+clsi,ampicillin,"CMY-2, binary, blaEC, blaEC-13, blaEC-18, blaEC-19, blaEC-5, blaEC-8, blaTEM-1, blaTEM-1B, count, dog"
+clsi,cefazolin,"CMY-2, binary, blaEC, blaEC-13, blaEC-18, blaEC-19, blaEC-5, blaEC-8, blaTEM-1, blaTEM-150, blaTEM-1A, blaTEM-1B, count, dog, horse"
+clsi,cefovecin,"CMY-2, CTX-M-14, binary, blaEC, blaEC-13, blaEC-18, blaEC-19, blaEC-5, blaEC-8, blaTEM-1, blaTEM-104, blaTEM-105, blaTEM-150, blaTEM-1A, blaTEM-1B, blaTEM-1C, blaTEM-235, cat, count, dog"
+clsi,cefpodoxime,"CMY-2, CTX-M-116, binary, blaEC, blaEC-13, blaEC-18, blaEC-19, blaEC-5, blaEC-8, blaTEM-1, blaTEM-102, blaTEM-104, blaTEM-150, blaTEM-1A, blaTEM-1B, count"
+clsi,ceftazidime,"CMY-2, CTX-M-15, binary, blaEC-15, blaEC-5, blaTEM-102, blaTEM-104, count"
+clsi,ceftiofur,"CMY-2, CTX-M-15, CTX-M-55, OXA-1, OXA-395, ROB-1, binary, blaEC, blaEC-13, blaEC-15, blaEC-18, blaEC-5, blaEC-8, blaTEM, blaTEM-1, blaTEM-102, blaTEM-105, blaTEM-150, blaTEM-1A, blaTEM-1C, blaTEM-235, count"
+clsi,cephalexin,"CMY-2, binary, blaEC, blaEC-13, blaEC-19, blaEC-5, blaEC-8, blaTEM, blaTEM-1, blaTEM-104, blaTEM-105, blaTEM-150, blaTEM-1A, blaTEM-1B, count"
+clsi,enrofloxacin,count
+clsi,gentamicin,"AAC(3)-IId, AAC(3)-Iid, AAC(3)-VIa, AAC(6')-Ib', AAC(6')-Ib4, ANT(2'')-Ia, count"
+clsi,marbofloxacin,count
+clsi,orbifloxacin,count
+clsi,piperacillin_tazobactam,"CARB-2, CMY-107, CMY-130, CMY-2, CTX-M-116, CTX-M-14, CTX-M-15, CTX-M-27, CTX-M-55, OXA-1, ROB, ROB-1, ROB-2, binary, blaEC, blaEC-13, blaEC-15, blaEC-18, blaEC-19, blaEC-5, blaEC-8, blaTEM-1, blaTEM-102, blaTEM-150, blaTEM-1A, blaTEM-1B, count"
+clsi,pradofloxacin,count
+ecoff,amoxicillin,"CMY-2, OXA-60, OXA-60b, binary, blaEC, blaEC-13, blaEC-15, blaEC-18, blaEC-19, blaEC-5, blaEC-8, blaTEM-1, blaTEM-1B, chicken, count, turkey"
+ecoff,ampicillin,"CMY-2, CTX-M-1, binary, blaEC, blaEC-13, blaEC-15, blaEC-18, blaEC-19, blaTEM-1, blaTEM-102, blaTEM-141, count"
+ecoff,cefazolin,"CMY-2, OXA-364, OXA-787, binary, blaEC, blaEC-19, blaEC-8, blaTEM-1, blaTEM-104, blaTEM-150, blaTEM-1A, blaTEM-1B, blaTEM-34, cat, count, horse"
+ecoff,cefpodoxime,"CMY-2, CTX-M-14, CTX-M-15, OXA-364, OXA-787, binary, blaEC, blaEC-18, blaEC-19, blaEC-5, blaEC-8, blaTEM-1, blaTEM-1C, blaTEM-235, count"
+ecoff,ceftazidime,"CMY-2, CTX-M-1, CTX-M-15, CTX-M-55, SHV-12, blaTEM-1, blaTEM-150, blaTEM-1A, count, horse"
+ecoff,ceftiofur,"CARB-2, CMY-2, CTX-M-1, CTX-M-55, HER-3, HERA-3, OXA-60, OXA-60b, PDC-10, PDC-113, SHV-12, binary, blaA_Mtub, blaEC, blaEC-13, blaEC-15, blaEC-18, blaEC-19, blaEC-5, blaR1, blaTEM-1, blaTEM-102, blaTEM-12, blaTEM-141, blaTEM-150, blaTEM-1A, blaTEM-1B, blaTEM-1C, blaTEM-1D, blaTEM-235, blaZ, blaZ01, blaZ8, chicken, count, horse"
+ecoff,chloramphenicol,"binary, catA1, catB3, cmlA, count, floR, oqxB9"
+ecoff,doxycycline,"binary, count, tet(A), tet(B), tet34"
+ecoff,enrofloxacin,count
+ecoff,gentamicin,"AAC(3)-II, AAC(3)-IId, AAC(3)-IIe, AAC(3)-IIg, AAC(3)-Ib, AAC(3)-Iid, AAC(3)-VIa, AAC(6')-Ib4, cat, count, swine"
+ecoff,neomycin,"AAC(3)-IV, AAC(3)-IVa, AAC(3)-VIa, APH(3')-IIa, APH(3')-IIb, APH(3')-Ia, binary, chicken, count"
+ecoff,spectinomycin,"ANT(3'')-Ia, ANT(3'')-Ii-AAC(6')-IId, aadA1, aadA10, aadA12, aadA2, aadA5, ant(3'')-Ih/aac(6')-IId, cattle, count, swine, turkey"
+ecoff,streptomycin,"AAC(3)-VIa, ANT(3'')-Ia, APH(3'')-Ib, APH(6)-Id, aadA1, aadA2, binary, chicken, count, turkey"
+ecoff,tetracycline,"binary, cattle, chicken, count, dog, otr(A), tet(A), tet(B), tet(C), tet(M), tet34, turkey"
+ecoff,ticarcillin_clavulanic_acid,"CMY-2, CTX-M-1, CTX-M-15, CTX-M-55, binary, blaEC-13, blaEC-19, blaI, blaTEM-1, blaTEM-105, blaTEM-1B, count"
+ecoff,trimethoprim_sulfamethoxazole,"binary, cat, cattle, chicken, count, dfrA1, dfrA12, dfrA17, dfrA5, horse, swine, turkey"

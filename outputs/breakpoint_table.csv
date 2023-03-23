@@ -1,0 +1,8 @@
+Class,Antibiotic,CLSI,ECOFF,Shared
+aminoglycoside,gentamicin,36,36,5
+beta-lactam,ampicillin,65,4,8
+beta-lactam,cefazolin,70,36,29
+beta-lactam,cefpodoxime,7,6,9
+beta-lactam,ceftazidime,5,52,3
+beta-lactam,ceftiofur,7,70,15
+fluoroquinolone,enrofloxacin,,,1

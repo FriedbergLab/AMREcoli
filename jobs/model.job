@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# Copy/paste this job script into a text file and submit with the command:
+#    sbatch thefilename
+# job standard output will go to the file slurm-%j.out (where %j is the job ID)
+
+#SBATCH --time=168:00:00   # walltime limit (HH:MM:SS)
+#SBATCH --nodes=1   # number of nodes
+#SBATCH --ntasks-per-node=1 #36 processor core(s) per node 
+#SBATCH --mem=32G    # maximum memory per node
+#SBATCH --mail-user=hchung@iastate.edu   # email address
+#SBATCH --job-name="amr" # a nice readable name to give your job so you know what it is when you see it in the queue, instead of just numbers
+
+# LOAD MODULES, INSERT CODE, AND RUN YOUR PROGRAMS HERE
+module load r/4.2.2-py39-s2cctk6
+
+cd /work/idoerg/hchung/amr_analysis
+
+#Rscript code/0_digest.R
+#Rscript code/1_descriptive.R
+#Rscript code/2_elasticnet.R
+Rscript code/2_elasticnet_leaveoneout.R
+#Rscript code/2_enpower.R
+

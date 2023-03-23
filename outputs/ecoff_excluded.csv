@@ -1,0 +1,26 @@
+mic_id,host_animal_common,n
+cefovecin,"cat, dog",235
+chlortetracycline,"cattle, swine",183
+clarithromycin,horse,151
+clindamycin,"cattle, swine, chicken, turkey, dog",465
+danofloxacin,"cattle, swine",300
+enrofloxacin,swine,20
+erythromycin,"chicken, turkey, horse, dog",316
+gamithromycin,"cattle, swine",146
+marbofloxacin,cat,67
+novobiocin,"chicken, turkey",164
+orbifloxacin,cat,67
+oxacillin,"horse, dog",152
+oxytetracycline,"cattle, swine, chicken, turkey",347
+penicillin,"cattle, swine, chicken, turkey, horse, dog",616
+pradofloxacin,cat,67
+rifampin,"horse, dog",152
+sulphadimethoxine,"cattle, swine, chicken, turkey",464
+sulphathiazole,"chicken, turkey",164
+tiamulin,"cattle, swine",300
+ticarcillin,horse,146
+tildipirosin,"cattle, swine",146
+tilmicosin,"cattle, swine",300
+tulathromycin,"cattle, swine",271
+tylosin_tartrate,"cattle, swine, chicken, turkey",435
+vancomycin,dog,1

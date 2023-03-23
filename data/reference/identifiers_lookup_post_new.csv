@@ -1,0 +1,671 @@
+gene,database,accession,gene_identifier,card_id,gene_name_family_desc,gene_name_family,gene_type,resistance_class,resistance_drug
+A7J112581,ncbi,A7J11_02581,ant(3'')-Ih/aac(6')-IId,AAC(6')-Iid,"ANT(3''), AAC(6')",ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aac(3)-Ib,resfinder,L06157,AAC(3)-Ib,AAC(3)-Ib,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, sisomicin, fortimicin"
+aac(3)-Ib-aac(6')-Ib',resfinder,AF355189,AAC(3)-Ib,AAC(3)-Ib/AAC(6')-Ib'',"AAC(3), AAC(6')",AAC(3),chromosome,aminoglycoside,"gentamicin, sisomicin, fortimicin"
+aac(3)-Ic,ncbi,NG_048568.1,AAC(3)-Ic,AAC(3)-Ic,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, sisomicin, fortimicin"
+aac(3)-Ic,resfinder,AJ511268,AAC(3)-Ic,AAC(3)-Ic,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, sisomicin, fortimicin"
+aac(3)-Ic,amrfinder,WP_034006142.1,AAC(3)-Ic,AAC(3)-Ic,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, sisomicin, fortimicin"
+aac(3)-II,ncbi,NG_047231.1,AAC(3)-IIg,AAC(3)-IIg,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-II,amrfinder,WP_012695485.1,AAC(3)-IIg,AAC(3)-IIg,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-II,amrfinder,WP_000557454.1,AAC(3)-IIg,AAC(3)-IId,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-II,ncbi,NG_047231.1,AAC(3)-IId,AAC(3)-IIg,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-II,amrfinder,WP_012695485.1,AAC(3)-IId,AAC(3)-IIg,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-II,amrfinder,WP_000557454.1,AAC(3)-IId,AAC(3)-IId,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IIa,ncbi,NG_047244.1,AAC(3)-IIe,AAC(3)-IIa,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IIa,resfinder,X51534,AAC(3)-IIe,AAC(3)-IIa,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IIa,amrfinder,WP_000557452.1,AAC(3)-IIe,AAC(3)-IIa,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IIa,ncbi,NG_047244.1,AAC(3)-II,AAC(3)-IIa,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IIa,resfinder,X51534,AAC(3)-II,AAC(3)-IIa,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IIa,amrfinder,WP_000557452.1,AAC(3)-II,AAC(3)-IIa,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IIb,resfinder,M97172,AAC(3)-IIb,AAC(3)-IIa,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IId,ncbi,NG_047251.1,AAC(3)-IId,AAC(3)-IId,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IId,resfinder,EU022314,AAC(3)-IId,AAC(3)-IId,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IId,ncbi,A7J11_00380,AAC(3)-IId,AAC(3)-IId,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IId,amrfinder,WP_000557454.1,AAC(3)-IId,AAC(3)-IId,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IId,amrfinder,NA,AAC(3)-IId,AAC(3)-IId,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IId,ncbi,NG_047251.1,AAC(3)-Iid,AAC(3)-IId,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IId,resfinder,EU022314,AAC(3)-Iid,AAC(3)-IId,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IId,ncbi,A7J11_00380,AAC(3)-Iid,AAC(3)-IId,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IId,amrfinder,WP_000557454.1,AAC(3)-Iid,AAC(3)-IId,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IId,amrfinder,NA,AAC(3)-Iid,AAC(3)-IId,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IIe,amrfinder,WP_000557452.1,AAC(3)-IIe,AAC(3)-IIe,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IIg,amrfinder,WP_012695485.1,AAC(3)-IIg,AAC(3)-IIg,AAC(3),AAC(3),chromosome,aminoglycoside,"gentamicin, netilmicin, tobramycin, sisomicin, dibekacin"
+aac(3)-IV,amrfinder,WP_001199192.1,AAC(3)-IVa,AAC(3)-IV,AAC(3),AAC(3),chromosome,aminoglycoside,
+aac(3)-IVa,ncbi,NG_047254.1,AAC(3)-IVa,AAC(3)-IV,AAC(3),AAC(3),chromosome,aminoglycoside,
+aac(3)-IVa,resfinder,X01385,AAC(3)-IVa,AAC(3)-IV,AAC(3),AAC(3),chromosome,aminoglycoside,
+aac(3)-IVa,amrfinder,WP_001199192.1,AAC(3)-IVa,AAC(3)-IV,AAC(3),AAC(3),chromosome,aminoglycoside,
+aac(3)-IVa,ncbi,NG_047254.1,AAC(3)-IV,AAC(3)-IV,AAC(3),AAC(3),chromosome,aminoglycoside,
+aac(3)-IVa,resfinder,X01385,AAC(3)-IV,AAC(3)-IV,AAC(3),AAC(3),chromosome,aminoglycoside,
+aac(3)-IVa,amrfinder,WP_001199192.1,AAC(3)-IV,AAC(3)-IV,AAC(3),AAC(3),chromosome,aminoglycoside,
+aac(3)-VIa,ncbi,NG_047262.1,AAC(3)-VIa,AAC(3)-IV,AAC(3),AAC(3),chromosome,aminoglycoside,
+aac(3)-VIa,resfinder,NC_009838,AAC(3)-VIa,AAC(3)-IV,AAC(3),AAC(3),chromosome,aminoglycoside,
+aac(3)-VIa,resfinder,M88012,AAC(3)-VIa,AAC(3)-IV,AAC(3),AAC(3),chromosome,aminoglycoside,
+aac(3)-VIa,ncbi,NG_052583.3,AAC(3)-VIa,AAC(3)-IV,AAC(3),AAC(3),chromosome,aminoglycoside,
+aac(3)-VIa,amrfinder,WP_000131886.1,AAC(3)-VIa,AAC(3)-IV,AAC(3),AAC(3),chromosome,aminoglycoside,
+aac(6')-Ib,ncbi,NG_052358.1,AAC(6')-Ib',AAC(6')-Ib',AAC(6'),AAC(6'),chromosome,aminoglycoside,"amikacin, gentamicin"
+aac(6')-Ib,ncbi,NG_052418.1,AAC(6')-Ib',AAC(6')-Ib',AAC(6'),AAC(6'),chromosome,aminoglycoside,"amikacin, gentamicin"
+aac(6')-Ib,ncbi,NG_052057.1,AAC(6')-Ib',AAC(6')-Ib',AAC(6'),AAC(6'),chromosome,aminoglycoside,"amikacin, gentamicin"
+aac(6')-Ib,ncbi,NG_052262.1,AAC(6')-Ib',AAC(6')-Ib',AAC(6'),AAC(6'),chromosome,aminoglycoside,"amikacin, gentamicin"
+aac(6')-Ib,ncbi,NG_052361.1,AAC(6')-Ib',AAC(6')-Ib',AAC(6'),AAC(6'),chromosome,aminoglycoside,"amikacin, gentamicin"
+aac(6')-Ib,amrfinder,WP_032488579.1,AAC(6')-Ib',AAC(6')-Ib',AAC(6'),AAC(6'),chromosome,aminoglycoside,"amikacin, gentamicin"
+aac(6')-Ib,amrfinder,WP_022631510.1,AAC(6')-Ib',AAC(6')-Ib',AAC(6'),AAC(6'),chromosome,aminoglycoside,"amikacin, gentamicin"
+aac(6')-Ib-AKT,ncbi,NG_052358.1,AAC(6')-Ib',AAC(6')-Ib',AAC(6'),AAC(6'),chromosome,aminoglycoside,"amikacin, gentamicin"
+aac(6')-Ib-cr,resfinder,DQ303918,AAC(6')-Ib-cr,AAC(6')-Ib-cr,AAC(6')-Ib-cr,AAC(6')-Ib-cr,chromosome,"aminoglycoside, fluoroquinolone","amikacin, gentamicin"
+aac(6')-Ib-cr,ncbi,NG_052213.1,AAC(6')-Ib-cr,AAC(6')-Ib-cr,AAC(6')-Ib-cr,AAC(6')-Ib-cr,chromosome,"aminoglycoside, fluoroquinolone","amikacin, gentamicin"
+aac(6')-Ib-cr,amrfinder,WP_063840320.1,AAC(6')-Ib-cr,AAC(6')-Ib-cr,AAC(6')-Ib-cr,AAC(6')-Ib-cr,chromosome,"aminoglycoside, fluoroquinolone","amikacin, gentamicin"
+aac(6')-Ib-cr,amrfinder,WP_063840321.1,AAC(6')-Ib-cr,AAC(6')-Ib-cr,AAC(6')-Ib-cr,AAC(6')-Ib-cr,chromosome,"aminoglycoside, fluoroquinolone","amikacin, gentamicin"
+aac(6')-Ib-cr5,amrfinder,NA,AAC(6')-Ib-cr5,AAC(6')-Ib-cr5,AAC(6')-Ib-cr,AAC(6')-Ib-cr,chromosome,"aminoglycoside, fluoroquinolone","amikacin, gentamicin"
+aac(6')-Ib-cr5,amrfinder,WP_063840321.1,AAC(6')-Ib-cr5,AAC(6')-Ib-cr5,AAC(6')-Ib-cr,AAC(6')-Ib-cr,chromosome,"aminoglycoside, fluoroquinolone","amikacin, gentamicin"
+aac(6')-Ib3,amrfinder,WP_032488579.1,AAC(6')-Ib3,AAC(6')-Ib3,AAC(6'),AAC(6'),chromosome,aminoglycoside,"amikacin, gentamicin"
+aac(6')-Ib4,ncbi,NG_051844.1,AAC(6')-Ib4,AAC(6')-Ib4,AAC(6'),AAC(6'),chromosome,aminoglycoside,"amikacin, gentamicin"
+aac(6')-Ib4,amrfinder,WP_003159191.1,AAC(6')-Ib4,AAC(6')-Ib4,AAC(6'),AAC(6'),chromosome,aminoglycoside,"amikacin, gentamicin"
+aac(6')-IIc,ncbi,NG_047273.1,AAC(6')-IIc,AAC(6')-IIc,AAC(6'),AAC(6'),chromosome,aminoglycoside,"amikacin, gentamicin"
+aac(6')-IIc,resfinder,NC_012555,AAC(6')-IIc,AAC(6')-IIc,AAC(6'),AAC(6'),chromosome,aminoglycoside,"amikacin, gentamicin"
+aac(6')-IIc,amrfinder,WP_012695484.1,AAC(6')-IIc,AAC(6')-IIc,AAC(6'),AAC(6'),chromosome,aminoglycoside,"amikacin, gentamicin"
+aadA1,ncbi,NG_052266.1,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,ncbi,NG_052247.1,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,ncbi,NG_047324.1,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,ncbi,NG_047325.1,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,ncbi,NG_052230.1,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,ncbi,NG_052136.1,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,ncbi,NG_052279.1,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,ncbi,NG_052028.1,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,resfinder,JQ480156,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,resfinder,FJ591054,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,ncbi,NG_047327.1,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,ncbi,NG_052146.1,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,ncbi,NG_052179.1,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,resfinder,JX185132,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,ncbi,NG_052238.1,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,resfinder,JQ414041,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,amrfinder,WP_001206316.1,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,amrfinder,WP_001209508.1,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,amrfinder,WP_001206317.1,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA1,amrfinder,WP_001206315.1,aadA1,aadA,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA10,resfinder,AM087405,aadA10,aadA10,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA11,ncbi,NG_052308.1,aadA11,aadA11,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA12,ncbi,NG_047333.1,aadA12,aadA12,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA12,resfinder,AY665771,aadA12,aadA12,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA12,ncbi,NG_052309.1,aadA12,aadA12,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA12,amrfinder,WP_031306504.1,aadA12,aadA12,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA15,ncbi,NG_052144.1,aadA15,aadA15,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA17,resfinder,FJ460181,aadA17,aadA17,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA2,ncbi,NG_047343.1,aadA2,aadA2,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA2,resfinder,NC_010870,aadA2,aadA2,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA2,ncbi,NG_051846.1,aadA2,aadA2,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA2,ncbi,NG_052156.1,aadA2,aadA2,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA2,ncbi,NG_051848.1,aadA2,aadA2,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA2,amrfinder,WP_001206356.1,aadA2,aadA2,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA2,amrfinder,WP_071846198.1,aadA2,aadA2,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA2,amrfinder,WP_001261740.1,aadA2,aadA2,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA22,resfinder,AM261837,aadA22,aadA22,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA22,ncbi,NG_047346.1,aadA22,aadA22,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA22,ncbi,NG_047348.1,aadA22,aadA22,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA22,amrfinder,WP_032491824.1,aadA22,aadA22,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA22,amrfinder,WP_024198294.1,aadA22,aadA22,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA25,ncbi,NG_052538.1,aadA25,aadA25,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA25,amrfinder,WP_024131607.1,aadA25,aadA25,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA5,ncbi,NG_047357.1,aadA5,aadA5,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA5,resfinder,AF137361,aadA5,aadA5,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA5,ncbi,A7J11_06257,aadA5,aadA5,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA5,ncbi,NG_052148.1,aadA5,aadA5,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA5,ncbi,NG_051903.1,aadA5,aadA5,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA5,ncbi,NG_051894.1,aadA5,aadA5,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA5,amrfinder,WP_000503573.1,aadA5,aadA5,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA5,amrfinder,NA,aadA5,aadA5,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA6,ncbi,NG_052539.1,aadA6,aadA6,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA6,resfinder,AF140629,aadA6,aadA6,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA6,ncbi,NG_047360.1,aadA6,aadA6,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA6,amrfinder,WP_044067522.1,aadA6,aadA6,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA6,amrfinder,WP_021529708.1,aadA6,aadA6,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA7,ncbi,NG_047362.1,aadA7,aadA7,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA7,resfinder,AF224733,aadA7,aadA7,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aadA7,amrfinder,WP_001436322.1,aadA7,aadA7,ANT(3''),ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+ant(2'')-Ia,ncbi,NG_047387.1,ANT(2'')-Ia,ANT(2'')-Ia,ANT(2''),ANT(2''),chromosome,aminoglycoside,"gentamicin, tobramycin, dibekacin, sisomicin, kanamycin"
+ant(2'')-Ia,resfinder,X04555,ANT(2'')-Ia,ANT(2'')-Ia,ANT(2''),ANT(2''),chromosome,aminoglycoside,"gentamicin, tobramycin, dibekacin, sisomicin, kanamycin"
+ant(2'')-Ia,amrfinder,WP_000381802.1,ANT(2'')-Ia,ANT(2'')-Ia,ANT(2''),ANT(2''),chromosome,aminoglycoside,"gentamicin, tobramycin, dibekacin, sisomicin, kanamycin"
+ant(3'')-Ia,resfinder,X02340,ANT(3'')-Ia,ANT(2'')-Ia,"	ANT(3'')","	ANT(3'')",chromosome,aminoglycoside,"spectinomycin, streptomycin"
+ant(3'')-Ii-aac(6')-IId,resfinder,AF453998,ANT(3'')-Ii-AAC(6')-IId,ANT(3'')-Ii-AAC(6')-IId fusion protein,"ANT(3''), AAC(6')",ANT(3''),chromosome,aminoglycoside,"spectinomycin, streptomycin"
+aph(3'')-Ib,ncbi,NG_047413.1,APH(3'')-Ib,APH(3'')-Ib,APH(3''),APH(3''),chromosome,aminoglycoside,streptomycin
+aph(3'')-Ib,resfinder,AF321551,APH(3'')-Ib,APH(3'')-Ib,APH(3''),APH(3''),chromosome,aminoglycoside,streptomycin
+aph(3'')-Ib,resfinder,AF024602,APH(3'')-Ib,APH(3'')-Ib,APH(3''),APH(3''),chromosome,aminoglycoside,streptomycin
+aph(3'')-Ib,ncbi,NG_047415.1,APH(3'')-Ib,APH(3'')-Ib,APH(3''),APH(3''),chromosome,aminoglycoside,streptomycin
+aph(3'')-Ib,resfinder,M28829,APH(3'')-Ib,APH(3'')-Ib,APH(3''),APH(3''),chromosome,aminoglycoside,streptomycin
+aph(3'')-Ib,ncbi,A7J11_05252,APH(3'')-Ib,APH(3'')-Ib,APH(3''),APH(3''),chromosome,aminoglycoside,streptomycin
+aph(3'')-Ib,ncbi,NG_056002.2,APH(3'')-Ib,APH(3'')-Ib,APH(3''),APH(3''),chromosome,aminoglycoside,streptomycin
+aph(3'')-Ib,amrfinder,WP_109545041.1,APH(3'')-Ib,APH(3'')-Ib,APH(3''),APH(3''),chromosome,aminoglycoside,streptomycin
+aph(3'')-Ib,amrfinder,NA,APH(3'')-Ib,APH(3'')-Ib,APH(3''),APH(3''),chromosome,aminoglycoside,streptomycin
+aph(3'')-Ib,amrfinder,WP_001082319.1,APH(3'')-Ib,APH(3'')-Ib,APH(3''),APH(3''),chromosome,aminoglycoside,streptomycin
+aph(3')-Ia,ncbi,NG_047430.1,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia,resfinder,V00359,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia,ncbi,NG_047432.1,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia,ncbi,NG_047441.1,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia,ncbi,NG_047436.1,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia,ncbi,NG_047440.1,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia,ncbi,NG_047429.1,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia,ncbi,NG_056047.1,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia,resfinder,EU722351,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia,resfinder,EF015636,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia,ncbi,NG_047431.1,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia,resfinder,X62115,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia,ncbi,NG_047437.1,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia,amrfinder,WP_000018329.1,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia,amrfinder,WP_000018330.1,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia,amrfinder,WP_000018321.1,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia,amrfinder,WP_000018326.1,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia,amrfinder,WP_012695470.1,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia,amrfinder,WP_011039766.1,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-Ia0,resfinder,EU855787,APH(3')-Ia,APH(3')-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, paromomycin, ribostamycin, lividomycin"
+aph(3')-IIa,ncbi,NG_047417.1,APH(3')-IIa,APH(3')-IIa,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, butirosin, paromomycin, ribostamycin"
+aph(3')-IIa,resfinder,V00618,APH(3')-IIa,APH(3')-IIa,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, butirosin, paromomycin, ribostamycin"
+aph(3')-IIa,amrfinder,WP_000572405.1,APH(3')-IIa,APH(3')-IIa,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, butirosin, paromomycin, ribostamycin"
+aph(3')-IIb,ncbi,NG_047424.1,APH(3')-IIb,APH(3'')-Ib,APH(3'),APH(3'),chromosome,aminoglycoside,"kanamycin, neomycin, butirosin, paromomycin, ribostamycin"
+aph(4)-Ia,ncbi,NG_047456.1,APH(4)-Ia,APH(4)-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,hygromycin
+aph(4)-Ia,resfinder,V01499,APH(4)-Ia,APH(4)-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,hygromycin
+aph(4)-Ia,amrfinder,WP_000742814.1,APH(4)-Ia,APH(4)-Ia,APH(3'),APH(3'),chromosome,aminoglycoside,hygromycin
+aph(6)-Ic,ncbi,NG_047463.1,APH(6)-Ic,APH(6)-Ic,APH(6),APH(6),chromosome,aminoglycoside,streptomycin
+aph(6)-Ic,resfinder,X01702,APH(6)-Ic,APH(6)-Ic,APH(6),APH(6),chromosome,aminoglycoside,streptomycin
+aph(6)-Ic,amrfinder,WP_000116906.1,APH(6)-Ic,APH(6)-Ic,APH(6),APH(6),chromosome,aminoglycoside,streptomycin
+aph(6)-Id,ncbi,NG_047464.1,APH(6)-Id,APH(6)-Id,APH(6),APH(6),chromosome,aminoglycoside,streptomycin
+aph(6)-Id,resfinder,M28829,APH(6)-Id,APH(6)-Id,APH(6),APH(6),chromosome,aminoglycoside,streptomycin
+aph(6)-Id,ncbi,NG_047469.1,APH(6)-Id,APH(6)-Id,APH(6),APH(6),chromosome,aminoglycoside,streptomycin
+aph(6)-Id,ncbi,NG_047465.1,APH(6)-Id,APH(6)-Id,APH(6),APH(6),chromosome,aminoglycoside,streptomycin
+aph(6)-Id,ncbi,A7J11_01109,APH(6)-Id,APH(6)-Id,APH(6),APH(6),chromosome,aminoglycoside,streptomycin
+aph(6)-Id,ncbi,NG_047466.1,APH(6)-Id,APH(6)-Id,APH(6),APH(6),chromosome,aminoglycoside,streptomycin
+aph(6)-Id,amrfinder,WP_000480968.1,APH(6)-Id,APH(6)-Id,APH(6),APH(6),chromosome,aminoglycoside,streptomycin
+aph(6)-Id,amrfinder,NA,APH(6)-Id,APH(6)-Id,APH(6),APH(6),chromosome,aminoglycoside,streptomycin
+aph(6)-Id,amrfinder,WP_000480972.1,APH(6)-Id,APH(6)-Id,APH(6),APH(6),chromosome,aminoglycoside,streptomycin
+armA,ncbi,NG_047476.1,armA,armA,16S rRNA methyltransferase (G1405),G1405,chromosome,aminoglycoside,"deoxystreptamine, fortimicin"
+armA,resfinder,AY220558,armA,armA,16S rRNA methyltransferase (G1405),G1405,chromosome,aminoglycoside,"deoxystreptamine, fortimicin"
+armA,amrfinder,WP_000359986.1,armA,armA,16S rRNA methyltransferase (G1405),G1405,chromosome,aminoglycoside,"deoxystreptamine, fortimicin"
+arr,ncbi,NG_047478.1,arr,rifampin ADP-ribosyltransferase (Arr),rifampin ADP-ribosyltransferase (Arr),Arr,chromosome,rifamycin,
+arr,amrfinder,WP_012695486.1,arr,rifampin ADP-ribosyltransferase (Arr),rifampin ADP-ribosyltransferase (Arr),Arr,chromosome,rifamycin,
+arr,amrfinder,WP_000237816.1,arr,rifampin ADP-ribosyltransferase (Arr),rifampin ADP-ribosyltransferase (Arr),Arr,chromosome,rifamycin,
+arr-2,ncbi,NG_048580.1,arr-2,arr-2,rifampin ADP-ribosyltransferase (Arr),Arr,chromosome,rifamycin,
+arr-2,amrfinder,WP_000237816.1,arr-2,arr-2,rifampin ADP-ribosyltransferase (Arr),Arr,chromosome,rifamycin,
+arr-269927220,ncbi,NG_047480.1,arr-2,rifampin ADP-ribosyltransferase (Arr),rifampin ADP-ribosyltransferase (Arr),Arr,chromosome,rifamycin,
+arr-3,ncbi,NG_048581.1,arr-3,arr-3,rifampin ADP-ribosyltransferase (Arr),Arr,chromosome,rifamycin,   
+arr-3,amrfinder,WP_001749986.1,arr-3,arr-3,rifampin ADP-ribosyltransferase (Arr),Arr,chromosome,rifamycin,
+ARR-3,resfinder,FM207631,arr-3,arr-3,rifampin ADP-ribosyltransferase (Arr),Arr,chromosome,rifamycin,
+arsB-mob,ncbi,A7J11_06246,arsB-mob,NA,arsB-mob,arsB-mob,chromosome,arsenic,
+blaA_Mtub,ncbi,NG_047489.1,blaA_Mtub,BlaA beta-lactamase,blaA_Mtub,blaA_Mtub,chromosome,beta-lactam,
+blaBIL-1,ncbi,NG_054644.1,BIL-1,BIL-1,BIL Beta-lactamase,BIL,chromosome,beta-lactam,
+blaBIL-1,resfinder,X74512,BIL-1,BIL-1,BIL Beta-lactamase,BIL,chromosome,beta-lactam,
+blaCARB-2,ncbi,NG_048722.1,CARB-2,CARB-2,CARB beta-lactamase,CARB,chromosome,beta-lactam,
+blaCARB-2,resfinder,M69058,CARB-2,CARB-2,CARB beta-lactamase,CARB,chromosome,beta-lactam,
+blaCARB-2,amrfinder,WP_001931474.1,CARB-2,CARB-2,CARB beta-lactamase,CARB,chromosome,beta-lactam,
+blaCFE-1,resfinder,AB107899,CFE-1,CFE-1,CMY beta-lactamase,CMY,chromosome,beta-lactam,
+blaCMY,amrfinder,WP_000976514.1,CMY-2,CMY beta-lactamase,CMY beta-lactamase,CMY,chromosome,beta-lactam,
+blaCMY-107,ncbi,NG_048777.1,CMY-107,CMY-107,CMY beta-lactamase,CMY,chromosome,beta-lactam,
+blaCMY-107,resfinder,GQ162215,CMY-107,CMY-107,CMY beta-lactamase,CMY,chromosome,beta-lactam,
+blaCMY-113,resfinder,KM087836,CMY-113,CMY-113,CMY beta-lactamase,CMY,chromosome,beta-lactam,
+blaCMY-130,ncbi,NG_048800.1,CMY-130,CMY-130,CMY beta-lactamase,CMY,chromosome,beta-lactam,
+blaCMY-130,resfinder,KP207589,CMY-130,CMY-130,CMY beta-lactamase,CMY,chromosome,beta-lactam,
+blaCMY-14,ncbi,NG_048808.1,CMY-14,CMY-14,CMY beta-lactamase,CMY,chromosome,beta-lactam,
+blaCMY-14,resfinder,AJ555825,CMY-14,CMY-14,CMY beta-lactamase,CMY,chromosome,beta-lactam,
+blaCMY-2,ncbi,NG_048814.1,CMY-2,CMY-2,CMY beta-lactamase,CMY,chromosome,beta-lactam,
+blaCMY-2,resfinder,X91840,CMY-2,CMY-2,CMY beta-lactamase,CMY,chromosome,beta-lactam,
+blaCMY-2,ncbi,A7J11_00540,CMY-2,CMY-2,CMY beta-lactamase,CMY,chromosome,beta-lactam,
+blaCMY-2,amrfinder,WP_000976514.1,CMY-2,CMY-2,CMY beta-lactamase,CMY,chromosome,beta-lactam,
+blaCMY-2,amrfinder,NA,CMY-2,CMY-2,CMY beta-lactamase,CMY,chromosome,beta-lactam,
+blaCMY-40,resfinder,EU515251,CMY-40,CMY-40,CMY beta-lactamase,CMY,chromosome,beta-lactam,
+blaCMY-50,resfinder,FN645444,CMY-50,CMY-50,CMY beta-lactamase,CMY,chromosome,beta-lactam,
+blaCTX-M,amrfinder,WP_000239591.1,CTX-M-1,CTX-M beta-lactamase,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M,amrfinder,WP_013188473.1,CTX-M-1,CTX-M beta-lactamase,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M,amrfinder,WP_000239590.1,CTX-M-1,CTX-M beta-lactamase,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-1,ncbi,NG_048897.1,CTX-M-1,CTX-M-1,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-1,resfinder,DQ915955,CTX-M-1,CTX-M-1,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-1,amrfinder,WP_013188473.1,CTX-M-1,CTX-M-1,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-101,ncbi,NG_048900.1,CTX-M-101,CTX-M-101,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-101,resfinder,HQ398214,CTX-M-101,CTX-M-101,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-103,ncbi,NG_048902.1,CTX-M-103,CTX-M-103,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-103,resfinder,HG423149,CTX-M-103,CTX-M-103,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-116,ncbi,NG_048911.1,CTX-M-116,CTX-M-116,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-116,resfinder,JF966749,CTX-M-116,CTX-M-116,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-138,resfinder,KF526119,CTX-M-138,CTX-M-138,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-14,ncbi,NG_048929.1,CTX-M-14,CTX-M-14,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-14,resfinder,AF252622,CTX-M-14,CTX-M-14,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-14,amrfinder,WP_001617865.1,CTX-M-14,CTX-M-14,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-15,ncbi,NG_048935.1,CTX-M-15,CTX-M-15,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-15,resfinder,AY044436,CTX-M-15,CTX-M-15,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-15,amrfinder,WP_000239590.1,CTX-M-15,CTX-M-15,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-158,resfinder,KM211691,CTX-M-158,CTX-M-158,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-27,ncbi,NG_048976.1,CTX-M-27,CTX-M-27,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-27,resfinder,AY156923,CTX-M-27,CTX-M-27,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-27,amrfinder,WP_032277257.1,CTX-M-27,CTX-M-27,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-32,ncbi,NG_048982.1,CTX-M-32,CTX-M-32,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-32,resfinder,AJ557142,CTX-M-32,CTX-M-32,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-32,amrfinder,WP_000239591.1,CTX-M-32,CTX-M-32,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-55,ncbi,NG_049006.1,CTX-M-55,CTX-M-55,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-55,resfinder,DQ810789,CTX-M-55,CTX-M-55,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-55,amrfinder,WP_015387340.1,CTX-M-55,CTX-M-55,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-65,ncbi,NG_049016.1,CTX-M-65,CTX-M-65,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-65,resfinder,EF418608,CTX-M-65,CTX-M-65,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaCTX-M-65,amrfinder,WP_013188475.1,CTX-M-65,CTX-M-65,CTX-M beta-lactamase,CTX-M,chromosome,beta-lactam,
+blaEC,ncbi,NG_047496.1,blaEC,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC,ncbi,NG_047495.1,blaEC,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC,ncbi,NG_047494.1,blaEC,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC,ncbi,A7J11_00670,blaEC,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC,amrfinder,WP_063860256.1,blaEC,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC,amrfinder,WP_001443153.1,blaEC,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC,amrfinder,WP_063610930.1,blaEC,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC,amrfinder,WP_001460207.1,blaEC,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC,amrfinder,WP_063860454.1,blaEC,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC,amrfinder,WP_001336292.1,blaEC,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC,amrfinder,NA,blaEC,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC,amrfinder,WP_063842627.1,blaEC,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC,amrfinder,WP_063860263.1,blaEC,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC,amrfinder,WP_063860228.1,blaEC,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC-13,ncbi,NG_049079.1,blaEC-13,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC-13,ncbi,A7J11_00180,blaEC-13,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC-15,ncbi,NG_049081.1,blaEC-15,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC-15,amrfinder,WP_063610930.1,blaEC-15,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC-18,ncbi,NG_049083.1,blaEC-18,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC-19,ncbi,NG_049084.1,blaEC-19,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC-5,ncbi,NG_049085.1,blaEC-5,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC-5,amrfinder,WP_001443153.1,blaEC-5,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaEC-8,ncbi,NG_049086.1,blaEC-8,ampC-type beta-lactamase,ampC-type beta-lactamase,ampC,chromosome,beta-lactam,
+blaHER-3,ncbi,NG_049159.1,HER-3,HERA beta-lactamase,HERA beta-lactamase,HERA,chromosome,beta-lactam,
+blaHER-3,amrfinder,WP_023281079.1,HER-3,HERA beta-lactamase,HERA beta-lactamase,HERA,chromosome,beta-lactam,
+blaHERA-3,resfinder,AF398335,HERA-3,HERA-3,HERA beta-lactamase,HERA,chromosome,beta-lactam,
+blaI,amrfinder,WP_001284656.1,blaI,blaI,blaZ beta-lactamase,blaZ,chromosome,beta-lactam,
+blaI_of_Z,ncbi,NG_047499.1,blaI,blaI,blaZ beta-lactamase,blaZ,chromosome,beta-lactam,
+blaLAP-2,ncbi,NG_049264.1,LAP-2,LAP-2,LAP beta-lactamase,LAP,chromosome,beta-lactam,
+blaLAP-2,amrfinder,WP_012477595.1,LAP-2,LAP-2,LAP beta-lactamase,LAP,chromosome,beta-lactam,
+blaOXA-1,ncbi,NG_049392.1,OXA-1,OXA beta-lactamase,OXA beta-lactamase,OXA,chromosome,beta-lactam,
+blaOXA-1,resfinder,HQ170510,OXA-1,OXA beta-lactamase,OXA beta-lactamase,OXA,chromosome,beta-lactam,
+blaOXA-1,ncbi,A7J11_00713,OXA-1,OXA beta-lactamase,OXA beta-lactamase,OXA,chromosome,beta-lactam,
+blaOXA-1,amrfinder,WP_001334766.1,OXA-1,OXA beta-lactamase,OXA beta-lactamase,OXA,chromosome,beta-lactam,
+blaOXA-1,amrfinder,NA,OXA-1,OXA beta-lactamase,OXA beta-lactamase,OXA,chromosome,beta-lactam,
+blaOXA-10,ncbi,NG_049393.1,OXA-10,OXA-10,OXA beta-lactamase,OXA,chromosome,beta-lactam,
+blaOXA-10,resfinder,J03427,OXA-10,OXA-10,OXA beta-lactamase,OXA,chromosome,beta-lactam,
+blaOXA-10,amrfinder,WP_000846390.1,OXA-10,OXA-10,OXA beta-lactamase,OXA,chromosome,beta-lactam,
+blaOXA-114g,resfinder,HM368376,OXA-114g,OXA beta-lactamase,OXA beta-lactamase,OXA,chromosome,beta-lactam,
+blaOXA-364,resfinder,JX306689,OXA-364,OXA-364,OXA beta-lactamase,OXA,chromosome,beta-lactam,
+blaOXA-395,ncbi,NG_049684.1,OXA-395,OXA-395,OXA beta-lactamase,OXA,chromosome,beta-lactam,
+blaOXA-395,resfinder,AY306133,OXA-395,OXA-395,OXA beta-lactamase,OXA,chromosome,beta-lactam,
+blaOXA-60,ncbi,NG_049800.1,OXA-60,OXA-60,OXA beta-lactamase,OXA,chromosome,beta-lactam,
+blaOXA-60b,resfinder,AY664504,OXA-60b,OXA-60,OXA beta-lactamase,OXA,chromosome,beta-lactam,
+blaOXA-787,ncbi,NG_064748.1,OXA-787,OXA beta-lactamase,OXA beta-lactamase,OXA,chromosome,beta-lactam,
+blaPAO,resfinder,FJ666073,PDC-10,ampC-type beta-lactamase,PDC beta-lactamase,PDC,chromosome,beta-lactam,
+blaPC1,ncbi,NG_052065.1,blaZ,PC1 beta-lactamase (blaZ),blaZ beta-lactamase,blaZ,chromosome,beta-lactam,
+blaPDC-113,ncbi,NG_049881.1,PDC-113,PDC beta-lactamase,PDC beta-lactamase,PDC,chromosome,beta-lactam,
+blaR1,ncbi,NG_047539.1,blaR1,blaR1,blaZ beta-lactamase,blaZ,chromosome,beta-lactam,
+blaR1,ncbi,NG_047536.1,blaR1,blaR1,blaZ beta-lactamase,blaZ,chromosome,beta-lactam,
+blaR1,amrfinder,WP_001096376.1,blaR1,blaR1,blaZ beta-lactamase,blaZ,chromosome,beta-lactam,
+blaROB,amrfinder,WP_005618523.1,ROB,ROB beta-lactamase,ROB beta-lactamase,ROB,chromosome,beta-lactam,
+blaROB-1,resfinder,DQ840517,ROB-1,ROB-1,ROB beta-lactamase,ROB,chromosome,beta-lactam,
+blaROB-2,ncbi,NG_059321.1,ROB-2,ROB-2,ROB beta-lactamase,ROB,chromosome,beta-lactam,
+blaSHV-12,ncbi,NG_050590.1,SHV-12,SHV-12,SHV beta-lactamase,SHV,chromosome,beta-lactam,
+blaSHV-12,resfinder,KF976405,SHV-12,SHV-12,SHV beta-lactamase,SHV,chromosome,beta-lactam,
+blaSHV-12,amrfinder,WP_002904004.1,SHV-12,SHV-12,SHV beta-lactamase,SHV,chromosome,beta-lactam,
+blaTEM,amrfinder,WP_000027057.1,blaTEM,TEM beta-lactamase,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM,amrfinder,WP_052944427.1,blaTEM,TEM beta-lactamase,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM,amrfinder,WP_032221497.1,blaTEM,TEM beta-lactamase,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-1,ncbi,NG_050145.1,blaTEM-1,TEM-1,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-1,ncbi,A7J11_00169,blaTEM-1,TEM-1,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-1,amrfinder,WP_000027057.1,blaTEM-1,TEM-1,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-1,amrfinder,NA,blaTEM-1,TEM-1,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-102,resfinder,AY040093,blaTEM-102,TEM-102,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-104,resfinder,AF516719,blaTEM-104,TEM-104,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-105,resfinder,AF516720,blaTEM-105,TEM-105,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-106,resfinder,AY101578,blaTEM-106,TEM-106,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-12,ncbi,NG_050163.1,blaTEM-12,TEM-12,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-135,ncbi,NG_050179.1,blaTEM-135,TEM-135,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-135,amrfinder,WP_015058868.1,blaTEM-135,TEM-135,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-141,resfinder,AY956335,blaTEM-141,TEM-141,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-150,ncbi,NG_050194.1,blaTEM-150,TEM-150,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-1A,resfinder,HM749966,blaTEM-1A,TEM-1,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-1B,resfinder,AY458016,blaTEM-1B,TEM-1,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-1C,resfinder,FJ560503,blaTEM-1C,TEM-1,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-1D,resfinder,AF188200,blaTEM-1D,TEM-1,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-235,ncbi,NG_059898.1,blaTEM-235,TEM-235,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-32,amrfinder,WP_052944427.1,blaTEM-32,TEM-32,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-34,ncbi,NG_050263.1,blaTEM-34,TEM-34,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-34,resfinder,KC292503,blaTEM-34,TEM-34,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaTEM-34,amrfinder,WP_015379489.1,blaTEM-34,TEM-34,TEM beta-lactamase,TEM,chromosome,beta-lactam,
+blaZ,ncbi,NG_055999.1,blaZ,blaZ beta-lactamase,blaZ beta-lactamase,blaZ,chromosome,beta-lactam,
+blaZ,amrfinder,WP_000733283.1,blaZ,blaZ beta-lactamase,blaZ beta-lactamase,blaZ,chromosome,beta-lactam,
+blaZ,amrfinder,WP_000733281.1,blaZ,blaZ beta-lactamase,blaZ beta-lactamase,blaZ,chromosome,beta-lactam,
+blaZ01,resfinder,LTLP01000099,blaZ01,blaZ beta-lactamase,blaZ beta-lactamase,blaZ,chromosome,beta-lactam,
+blaZ8,resfinder,KU607301,blaZ8,blaZ beta-lactamase,blaZ beta-lactamase,blaZ,chromosome,beta-lactam,
+ble,amrfinder,WP_000131935.1,ble,BLMT,Bleomycin resistant protein,Bleomycin,chromosome,bleomycin,
+ble_Tn5,ncbi,NG_047555.1,ble_Tn5,BLMT,Bleomycin resistant protein,Bleomycin,chromosome,bleomycin,
+bleO,ncbi,NG_047557.1,bleO,BLMT,Bleomycin resistant protein,Bleomycin,chromosome,bleomycin,
+bleO,amrfinder,WP_001242578.1,bleO,BLMT,Bleomycin resistant protein,Bleomycin,chromosome,bleomycin,
+catA1,ncbi,NG_047582.1,catA1,chloramphenicol acetyltransferase (CAT),chloramphenicol acetyltransferase (CAT),CAT,chromosome,phenicol,
+catA1,resfinder,V00622,catA1,chloramphenicol acetyltransferase (CAT),chloramphenicol acetyltransferase (CAT),CAT,chromosome,phenicol,
+catA1,ncbi,NG_047587.1,catA1,chloramphenicol acetyltransferase (CAT),chloramphenicol acetyltransferase (CAT),CAT,chromosome,phenicol,
+catA1,amrfinder,WP_000412211.1,catA1,chloramphenicol acetyltransferase (CAT),chloramphenicol acetyltransferase (CAT),CAT,chromosome,phenicol,
+catA2,ncbi,NG_047596.1,catA2,chloramphenicol acetyltransferase (CAT),chloramphenicol acetyltransferase (CAT),CAT,chromosome,phenicol,
+catA2,resfinder,X53796,catA2,chloramphenicol acetyltransferase (CAT),chloramphenicol acetyltransferase (CAT),CAT,chromosome,phenicol,
+catA2,ncbi,NG_047595.1,catA2,chloramphenicol acetyltransferase (CAT),chloramphenicol acetyltransferase (CAT),CAT,chromosome,phenicol,
+catA2,ncbi,NG_047592.1,catA2,chloramphenicol acetyltransferase (CAT),chloramphenicol acetyltransferase (CAT),CAT,chromosome,phenicol,
+catA2,amrfinder,WP_001011939.1,catA2,chloramphenicol acetyltransferase (CAT),chloramphenicol acetyltransferase (CAT),CAT,chromosome,phenicol,
+catA2,amrfinder,WP_012477888.1,catA2,chloramphenicol acetyltransferase (CAT),chloramphenicol acetyltransferase (CAT),CAT,chromosome,phenicol,
+catB3,ncbi,A7J11_04705,catB3,catB3,chloramphenicol acetyltransferase (CAT),CAT,chromosome,phenicol,
+catB3,ncbi,NG_047604.1,catB3,catB3,chloramphenicol acetyltransferase (CAT),CAT,chromosome,phenicol,
+catB3,resfinder,U13880,catB3,catB3,chloramphenicol acetyltransferase (CAT),CAT,chromosome,phenicol,
+catB3,ncbi,NG_047609.1,catB3,catB3,chloramphenicol acetyltransferase (CAT),CAT,chromosome,phenicol,
+catB3,resfinder,AJ009818,catB3,catB3,chloramphenicol acetyltransferase (CAT),CAT,chromosome,phenicol,
+catB3,ncbi,NG_047608.1,catB3,catB3,chloramphenicol acetyltransferase (CAT),CAT,chromosome,phenicol,
+catB3,amrfinder,WP_000186237.1,catB3,catB3,chloramphenicol acetyltransferase (CAT),CAT,chromosome,phenicol,
+cml,resfinder,M22614,cml,NA,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+cmlA,ncbi,NG_052155.1,cmlA,NA,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+cmlA1,ncbi,NG_047648.1,cmlA1,cmlA1,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+cmlA1,resfinder,M64556,cmlA1,cmlA1,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+cmlA1,ncbi,NG_047646.1,cmlA1,cmlA1,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+cmlA1,amrfinder,WP_000095725.1,cmlA1,cmlA1,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+cmlA5,ncbi,NG_051436.1,cmlA5,cmlA5,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+cmlA5,amrfinder,WP_012300772.1,cmlA5,cmlA5,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+cmlA6,ncbi,NG_047655.1,cmlA6,cmlA6,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+cmlA6,amrfinder,WP_001256773.1,cmlA6,cmlA6,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+Col(BS512),NA,NA,Col(BS512),NA,,,plasmid,colistin,
+Col(KPHS6),NA,NA,Col(KPHS6),NA,,,plasmid,colistin,
+Col(MG828),NA,NA,Col(MG828),NA,,,plasmid,colistin,
+Col(MGD2),NA,NA,Col(MGD2),NA,,,plasmid,colistin,
+Col(MP18),NA,NA,Col(MP18),NA,,,plasmid,colistin,
+Col(Ye4449),NA,NA,Col(Ye4449),NA,,,plasmid,colistin,
+Col156,NA,NA,Col156,NA,,,plasmid,colistin,
+Col3M,NA,NA,Col3M,NA,,,plasmid,colistin,
+Col440I,NA,NA,Col440I,NA,,,plasmid,colistin,
+Col440II,NA,NA,Col440II,NA,,,plasmid,colistin,
+Col8282,NA,NA,Col8282,NA,,,plasmid,colistin,
+ColE10,NA,NA,ColE10,NA,,,plasmid,colistin,
+ColpVC,NA,NA,ColpVC,NA,,,plasmid,colistin,
+ColRNAI,NA,NA,ColRNAI,NA,,,plasmid,colistin,
+crpP,ncbi,NG_062203.1,crpP,CrpP,ciprofloxacin phosphotransferase,crpP,chromosome,fluoroquinolone,
+crpP,resfinder,HM560971,crpP,CrpP,ciprofloxacin phosphotransferase,crpP,chromosome,fluoroquinolone,
+dfrA1,ncbi,NG_047677.1,dfrA1,dfrA1,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA1,ncbi,NG_047676.1,dfrA1,dfrA1,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA1,resfinder,X00926,dfrA1,dfrA1,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA1,amrfinder,WP_000777555.1,dfrA1,dfrA1,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA1,amrfinder,WP_000777554.1,dfrA1,dfrA1,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA10,resfinder,AF203818,dfrA10,dfrA10,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA12,ncbi,NG_047689.1,dfrA12,dfrA12,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA12,resfinder,AM040708,dfrA12,dfrA12,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA12,ncbi,NG_047687.1,dfrA12,dfrA12,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA12,resfinder,FJ763641,dfrA12,dfrA12,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA12,ncbi,NG_047688.1,dfrA12,dfrA12,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA12,resfinder,AB196348,dfrA12,dfrA12,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA12,amrfinder,WP_001083725.1,dfrA12,dfrA12,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA14,ncbi,NG_056035.1,dfrA14,dfrA14,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA14,resfinder,DQ388123,dfrA14,dfrA14,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA14,ncbi,NG_047696.1,dfrA14,dfrA14,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA14,ncbi,NG_047694.1,dfrA14,dfrA14,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA14,resfinder,KF921535,dfrA14,dfrA14,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA14,amrfinder,WP_004201280.1,dfrA14,dfrA14,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA14,amrfinder,WP_021529707.1,dfrA14,dfrA14,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA15,ncbi,NG_047702.1,dfrA15,dfrA15,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA15,resfinder,AF221900,dfrA15,dfrA15,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA15,amrfinder,WP_001355915.1,dfrA15,dfrA15,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA17,ncbi,NG_047710.1,dfrA17,dfrA17,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA17,resfinder,FJ460238,dfrA17,dfrA17,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA17,ncbi,A7J11_06256,dfrA17,dfrA17,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA17,ncbi,NG_047711.1,dfrA17,dfrA17,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA17,amrfinder,WP_001389366.1,dfrA17,dfrA17,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA17,amrfinder,NA,dfrA17,dfrA17,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA19,ncbi,NG_050403.1,dfrA19,dfrA19,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA19,resfinder,EU855687,dfrA19,dfrA19,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA19,amrfinder,WP_000019304.1,dfrA19,dfrA19,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA23,ncbi,NG_047719.1,dfrA23,dfrA23,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA23,resfinder,AJ746361,dfrA23,dfrA23,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA23,amrfinder,WP_001143450.1,dfrA23,dfrA23,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA34,ncbi,NG_062229.1,dfrA34,dfrA34,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA34,amrfinder,WP_058652112.1,dfrA34,dfrA34,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA36,ncbi,NG_065842.1,dfrA36,dfrA36,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA36,amrfinder,WP_000949574.1,dfrA36,dfrA36,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA5,ncbi,NG_051699.1,dfrA5,dfrA5,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA5,resfinder,X12868,dfrA5,dfrA5,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA5,amrfinder,WP_001317507.1,dfrA5,dfrA5,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA7,resfinder,AJ419170,dfrA7,dfrA7,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA7,ncbi,NG_047737.1,dfrA7,dfrA7,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA7,amrfinder,WP_000703418.1,dfrA7,dfrA7,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA8,ncbi,NG_047741.1,dfrA8,dfrA8,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA8,resfinder,U10186,dfrA8,dfrA8,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+dfrA8,amrfinder,WP_000571065.1,dfrA8,dfrA8,trimethoprim resistant dihydrofolate reductase dfr,dfr,chromosome,folate pathway antagonist,
+ere(A),ncbi,NG_047770.1,ere(A),EreA,macrolide esterase,Ere,chromosome,macrolide,
+ere(A),ncbi,NG_047763.1,ere(A),EreA,macrolide esterase,Ere,chromosome,macrolide,
+ere(A),resfinder,FN396877,ere(A),EreA,macrolide esterase,Ere,chromosome,macrolide,
+ere(A),resfinder,AF099140,ere(A),EreA,macrolide esterase,Ere,chromosome,macrolide,
+ere(A),amrfinder,WP_021566672.1,ere(A),EreA,macrolide esterase,Ere,chromosome,macrolide,
+erm(37),ncbi,NG_047780.1,erm(37),Erm(37),Erm 23S ribosomal RNA methyltransferase,Erm,chromosome,macrolide,
+erm(37),resfinder,AL123456,erm(37),Erm(37),Erm 23S ribosomal RNA methyltransferase,Erm,chromosome,macrolide,
+erm(42),ncbi,NG_047785.1,erm(42),Erm(42),Erm 23S ribosomal RNA methyltransferase,Erm,chromosome,macrolide,
+erm(42),resfinder,AB601890,erm(42),Erm(42),Erm 23S ribosomal RNA methyltransferase,Erm,chromosome,macrolide,
+erm(42),amrfinder,WP_014325825.1,erm(42),Erm(42),Erm 23S ribosomal RNA methyltransferase,Erm,chromosome,macrolide,
+erm(B),ncbi,NG_047804.1,erm(B),ErmB,Erm 23S ribosomal RNA methyltransferase,Erm,chromosome,macrolide,
+erm(B),amrfinder,WP_002321849.1,erm(B),ErmB,Erm 23S ribosomal RNA methyltransferase,Erm,chromosome,macrolide,
+erm(B)8,resfinder,X66468,erm(B),ErmB,Erm 23S ribosomal RNA methyltransferase,Erm,chromosome,macrolide,
+floR,ncbi,NG_047869.1,floR,floR,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+floR,resfinder,AF118107,floR,floR,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+floR,ncbi,NG_047878.1,floR,floR,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+floR,ncbi,NG_047877.1,floR,floR,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+floR,ncbi,NG_047876.1,floR,floR,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+floR,ncbi,NG_047862.1,floR,floR,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+floR,ncbi,NG_047866.1,floR,floR,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+floR,ncbi,NG_047871.1,floR,floR,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+floR,resfinder,AF071555,floR,floR,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+floR,ncbi,NG_047872.1,floR,floR,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+floR,amrfinder,WP_000214119.1,floR,floR,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+floR,amrfinder,WP_000214121.1,floR,floR,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+floR,amrfinder,WP_000214122.1,floR,floR,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+floR,amrfinder,WP_012561099.1,floR,floR,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+floR,amrfinder,WP_000214123.1,floR,floR,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+floR,amrfinder,WP_021038045.1,floR,floR,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+floR,amrfinder,WP_011453054.1,floR,floR,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,phenicol,
+fosA3,ncbi,NG_050407.1,fosA3,FosA3,fosfomycin thiol transferase,Fos,chromosome,fosfomycin,
+fosA3,resfinder,AB522970,fosA3,FosA3,fosfomycin thiol transferase,Fos,chromosome,fosfomycin,
+fosA3,amrfinder,WP_014839980.1,fosA3,FosA3,fosfomycin thiol transferase,Fos,chromosome,fosfomycin,
+fosA7,ncbi,NG_054942.1,fosA7,FosA7,fosfomycin thiol transferase,Fos,chromosome,fosfomycin,
+fosA7,resfinder,LAPJ01000014,fosA7,FosA7,fosfomycin thiol transferase,Fos,chromosome,fosfomycin,
+fosA7,amrfinder,WP_000941934.1,fosA7,FosA7,fosfomycin thiol transferase,Fos,chromosome,fosfomycin,
+fosA7.5,amrfinder,WP_000941933.1,fosA7.5,FosA7.5,fosfomycin thiol transferase,Fos,chromosome,fosfomycin,
+IncA/C2,NA,NA,IncA/C2,NA,,,plasmid,MULTI-DRUG,
+IncB/O/K/Z,NA,NA,IncB/O/K/Z,NA,,,plasmid,MULTI-DRUG,
+IncFIA,NA,NA,IncFIA,NA,,,plasmid,MULTI-DRUG,
+IncFIA(HI1)_HI1,NA,NA,IncFIA(HI1)_HI1,NA,,,plasmid,MULTI-DRUG,
+IncFIB(AP001918),NA,NA,IncFIB(AP001918),NA,,,plasmid,MULTI-DRUG,
+IncFIB(K)_Kpn3,NA,NA,IncFIB(K)_Kpn3,NA,,,plasmid,MULTI-DRUG,
+IncFIB(pB171)_pB171,NA,NA,IncFIB(pB171)_pB171,NA,,,plasmid,MULTI-DRUG,
+IncFIB(pHCM2)_pHCM2,NA,NA,IncFIB(pHCM2)_pHCM2,NA,,,plasmid,MULTI-DRUG,
+IncFIB(pKPHS1)_pKPHS1,NA,NA,IncFIB(pKPHS1)_pKPHS1,NA,,,plasmid,MULTI-DRUG,
+IncFIC(FII),NA,NA,IncFIC(FII),NA,,,plasmid,MULTI-DRUG,
+IncFII,NA,NA,IncFII,NA,,,plasmid,MULTI-DRUG,
+IncFII(29)_pUTI89,NA,NA,IncFII(29)_pUTI89,NA,,,plasmid,MULTI-DRUG,
+IncFII(pAMA1167-NDM-5)_pAMA1167-NDM-5,NA,NA,IncFII(pAMA1167-NDM-5)_pAMA1167-NDM-5,NA,,,plasmid,MULTI-DRUG,
+IncFII(pCoo)_pCoo,NA,NA,IncFII(pCoo)_pCoo,NA,,,plasmid,MULTI-DRUG,
+IncFII(pCRY)_pCRY,NA,NA,IncFII(pCRY)_pCRY,NA,,,plasmid,MULTI-DRUG,
+IncFII(pHN7A8)_pHN7A8,NA,NA,IncFII(pHN7A8)_pHN7A8,NA,,,plasmid,MULTI-DRUG,
+IncFII(pMET)_pMET1,NA,NA,IncFII(pMET)_pMET1,NA,,,plasmid,MULTI-DRUG,
+IncFII(pRSB107)_pRSB107,NA,NA,IncFII(pRSB107)_pRSB107,NA,,,plasmid,MULTI-DRUG,
+IncFII(pSE11)_pSE11,NA,NA,IncFII(pSE11)_pSE11,NA,,,plasmid,MULTI-DRUG,
+IncHI1A,NA,NA,IncHI1A,NA,,,plasmid,MULTI-DRUG,
+IncHI1B(CIT)_pNDM-CIT,NA,NA,IncHI1B(CIT)_pNDM-CIT,NA,,,plasmid,MULTI-DRUG,
+IncHI1B(R27)_R27,NA,NA,IncHI1B(R27)_R27,NA,,,plasmid,MULTI-DRUG,
+IncHI2,NA,NA,IncHI2,NA,,,plasmid,MULTI-DRUG,
+IncHI2A,NA,NA,IncHI2A,NA,,,plasmid,MULTI-DRUG,
+IncI_Gamma,NA,NA,IncI_Gamma,NA,,,plasmid,MULTI-DRUG,
+IncI1_Alpha,NA,NA,IncI1_Alpha,NA,,,plasmid,MULTI-DRUG,
+IncI2,NA,NA,IncI2,NA,,,plasmid,MULTI-DRUG,
+IncI2_Delta,NA,NA,IncI2_Delta,NA,,,plasmid,MULTI-DRUG,
+IncL/M,NA,NA,IncL/M,NA,,,plasmid,MULTI-DRUG,
+IncL/M(pMU407)_pMU407,NA,NA,IncL/M(pMU407)_pMU407,NA,,,plasmid,MULTI-DRUG,
+IncN,NA,NA,IncN,NA,,,plasmid,MULTI-DRUG,
+IncP1,NA,NA,IncP1,NA,,,plasmid,MULTI-DRUG,
+IncP6,NA,NA,IncP6,NA,,,plasmid,MULTI-DRUG,
+IncQ1,NA,NA,IncQ1,NA,,,plasmid,MULTI-DRUG,
+IncR,NA,NA,IncR,NA,,,plasmid,MULTI-DRUG,
+IncX1,NA,NA,IncX1,NA,,,plasmid,MULTI-DRUG,
+IncX2,NA,NA,IncX2,NA,,,plasmid,MULTI-DRUG,
+IncX3,NA,NA,IncX3,NA,,,plasmid,MULTI-DRUG,
+IncX4,NA,NA,IncX4,NA,,,plasmid,MULTI-DRUG,
+IncX9,NA,NA,IncX9,NA,,,plasmid,MULTI-DRUG,
+IncY,NA,NA,IncY,NA,,,plasmid,MULTI-DRUG,
+lnu(F),ncbi,NG_047927.1,lnu(F),lnuF,incosamide nucleotidyltransferase (LNU),LNU,chromosome,lincosamide,
+lnu(F),resfinder,EU118119,lnu(F),lnuF,incosamide nucleotidyltransferase (LNU),LNU,chromosome,lincosamide,
+lnu(F),amrfinder,WP_000939727.1,lnu(F),lnuF,incosamide nucleotidyltransferase (LNU),LNU,chromosome,lincosamide,
+lnu(G),ncbi,NG_051760.1,lnu(G),lnuG,incosamide nucleotidyltransferase (LNU),LNU,chromosome,lincosamide,
+lnu(G),resfinder,KX470419,lnu(G),lnuG,incosamide nucleotidyltransferase (LNU),LNU,chromosome,lincosamide,
+lnu(G),amrfinder,WP_002333496.1,lnu(G),lnuG,incosamide nucleotidyltransferase (LNU),LNU,chromosome,lincosamide,
+mcr-9,resfinder,NZ_NAAN01000063.1,mcr-9,NA,MCR phosphoethanolamine transferase,MCR,chromosome,colistin,
+mcr-9.1,ncbi,NG_064792.1,mcr-9.1,MCR-9.1,MCR phosphoethanolamine transferase,MCR,chromosome,colistin,
+mcr-9.1,amrfinder,WP_001572373.1,mcr-9.1,MCR-9.1,MCR phosphoethanolamine transferase,MCR,chromosome,colistin,
+mdf(A),resfinder,Y08743,mdf(A),Escherichia coli mdfA,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,MULTI-DRUG,
+mef(B),ncbi,NG_047978.1,mef(B),mef(B),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,macrolide,
+mef(B),resfinder,FJ196385,mef(B),mef(B),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,macrolide,
+mef(B),amrfinder,WP_032492336.1,mef(B),mef(B),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,macrolide,
+mef(C),ncbi,NG_047979.1,mef(C),mefC,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,macrolide,
+mef(C),resfinder,AB571865,mef(C),mefC,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,macrolide,
+mef(C),amrfinder,WP_014386804.1,mef(C),mefC,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,macrolide,
+mph(A),ncbi,NG_047986.1,mph(A),mphA,macrolide phosphotransferase (MPH),MPH,chromosome,macrolide,
+mph(A),resfinder,U36578,mph(A),mphA,macrolide phosphotransferase (MPH),MPH,chromosome,macrolide,
+mph(A),ncbi,A7J11_00571,mph(A),mphA,macrolide phosphotransferase (MPH),MPH,chromosome,macrolide,
+mph(A),amrfinder,WP_000219391.1,mph(A),mphA,macrolide phosphotransferase (MPH),MPH,chromosome,macrolide,
+mph(A),amrfinder,NA,mph(A),mphA,macrolide phosphotransferase (MPH),MPH,chromosome,macrolide,
+mph(E),ncbi,NG_064660.1,mph(E),mphE,macrolide phosphotransferase (MPH),MPH,chromosome,macrolide,
+mph(E),resfinder,DQ839391,mph(E),mphE,macrolide phosphotransferase (MPH),MPH,chromosome,macrolide,
+mph(E),amrfinder,WP_000155092.1,mph(E),mphE,macrolide phosphotransferase (MPH),MPH,chromosome,macrolide,
+mph(G),ncbi,NG_047998.1,mph(G),mphG,macrolide phosphotransferase (MPH),MPH,chromosome,macrolide,
+mph(G),resfinder,AB571865,mph(G),mphG,macrolide phosphotransferase (MPH),MPH,chromosome,macrolide,
+mph(G),amrfinder,WP_014386803.1,mph(G),mphG,macrolide phosphotransferase (MPH),MPH,chromosome,macrolide,
+msr(E),ncbi,NG_048007.1,msr(E),msrE,ABC-F ATP-binding cassette ribosomal protection protein,MSR,chromosome,macrolide,
+msr(E),resfinder,FR751518,msr(E),msrE,ABC-F ATP-binding cassette ribosomal protection protein,MSR,chromosome,macrolide,
+msr(E),amrfinder,WP_000052512.1,msr(E),msrE,ABC-F ATP-binding cassette ribosomal protection protein,MSR,chromosome,macrolide,
+oqxB,resfinder,EU370913,oqxB,oqxB,resistance-nodulation-cell division (RND) antibiotic efflux pump,RND,chromosome,phenicol/quinolone,
+oqxB12,ncbi,NG_050430.1,oqxB12,oqxB,resistance-nodulation-cell division (RND) antibiotic efflux pump,RND,chromosome,phenicol/quinolone,
+oqxB15,ncbi,NG_050433.1,oqxB15,oqxB,resistance-nodulation-cell division (RND) antibiotic efflux pump,RND,chromosome,phenicol/quinolone,
+oqxB9,ncbi,NG_050458.1,oqxB9,oqxB,resistance-nodulation-cell division (RND) antibiotic efflux pump,RND,chromosome,phenicol/quinolone,
+otr(A),ncbi,NG_048026.1,otr(A),otr(A),tetracycline-resistant ribosomal protection protein,otr,chromosome,tetracycline,
+otr(A),resfinder,X53401,otr(A),otr(A),tetracycline-resistant ribosomal protection protein,otr,chromosome,tetracycline,
+p0111,NA,NA,p0111,NA,,,plasmid,MULTI-DRUG,
+penA-A_Burk,ncbi,NG_048030.1,penA-A_Burk,class A beta-lactamase,Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics,PenA,chromosome,beta-lactam,
+penI_Bp,ncbi,NG_048031.1,penI_Bp,class A beta-lactamase,Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics,PenA,chromosome,beta-lactam,
+pENTAS02,NA,NA,pENTAS02,NA,,,plasmid,MULTI-DRUG,
+pESA2,NA,NA,pESA2,NA,,,plasmid,MULTI-DRUG,
+pSL483,NA,NA,pSL483,NA,,,plasmid,MULTI-DRUG,
+qacE,amrfinder,WP_010890145.1,qacE,qacE,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,DISINFECTANT,
+qacE,amrfinder,WP_000679427.1,qacE,qacE,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,DISINFECTANT,
+qacEdelta1,amrfinder,WP_000679427.1,qacEdelta1,qacEdelta1,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,DISINFECTANT,
+qacG2,amrfinder,WP_003830719.1,qacG2,qacE,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,DISINFECTANT,
+qacL,amrfinder,WP_000800531.1,qacL,qacE,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,DISINFECTANT,
+qnrB10,resfinder,DQ631414,qnrB10,QnrB10,quinolone resistance protein (qnr),qnr,chromosome,fluoroquinolone,
+qnrB19,ncbi,NG_050479.1,qnrB19,QnrB19,quinolone resistance protein (qnr),qnr,chromosome,fluoroquinolone,
+qnrB19,resfinder,EU432277,qnrB19,QnrB19,quinolone resistance protein (qnr),qnr,chromosome,fluoroquinolone,
+qnrB19,amrfinder,WP_012954666.1,qnrB19,QnrB19,quinolone resistance protein (qnr),qnr,chromosome,fluoroquinolone,
+qnrB2,ncbi,NG_050480.1,qnrB2,QnrB2,quinolone resistance protein (qnr),qnr,chromosome,fluoroquinolone,
+qnrB2,resfinder,DQ351242,qnrB2,QnrB2,quinolone resistance protein (qnr),qnr,chromosome,fluoroquinolone,
+qnrB2,amrfinder,WP_012695489.1,qnrB2,QnrB2,quinolone resistance protein (qnr),qnr,chromosome,fluoroquinolone,
+qnrS1,ncbi,NG_050543.1,qnrS1,QnrS1,quinolone resistance protein (qnr),qnr,chromosome,fluoroquinolone,
+qnrS1,resfinder,AB187515,qnrS1,QnrS1,quinolone resistance protein (qnr),qnr,chromosome,fluoroquinolone,
+qnrS1,amrfinder,WP_001516695.1,qnrS1,QnrS1,quinolone resistance protein (qnr),qnr,chromosome,fluoroquinolone,
+qnrS2,ncbi,NG_050544.1,qnrS2,QnrS2,quinolone resistance protein (qnr),qnr,chromosome,fluoroquinolone,
+qnrS2,resfinder,DQ485530,qnrS2,QnrS2,quinolone resistance protein (qnr),qnr,chromosome,fluoroquinolone,
+qnrS2,amrfinder,WP_012537714.1,qnrS2,QnrS2,quinolone resistance protein (qnr),qnr,chromosome,fluoroquinolone,
+qnrVC4,ncbi,NG_050553.1,qnrVC4,QnrVC4,quinolone resistance protein (qnr),qnr,chromosome,fluoroquinolone,
+qnrVC4,resfinder,GQ891757,qnrVC4,QnrVC4,quinolone resistance protein (qnr),qnr,chromosome,fluoroquinolone,
+qnrVC4,amrfinder,WP_000361704.1,qnrVC4,QnrVC4,quinolone resistance protein (qnr),qnr,chromosome,fluoroquinolone,
+rep134_rep(pPI2),NA,NA,rep134_rep(pPI2),NA,,,plasmid,MULTI-DRUG,
+rep210_p020(pLGA251),NA,NA,rep210_p020(pLGA251),NA,,,plasmid,MULTI-DRUG,
+rep217_rep(pLNU8),NA,NA,rep217_rep(pLNU8),NA,,,plasmid,MULTI-DRUG,
+rep219_rep(pLNU7),NA,NA,rep219_rep(pLNU7),NA,,,plasmid,MULTI-DRUG,
+rep7a_rep(pKH7),NA,NA,rep7a_rep(pKH7),NA,,,plasmid,MULTI-DRUG,
+rep7a_repD(pK214),NA,NA,rep7a_repD(pK214),NA,,,plasmid,MULTI-DRUG,
+rep7b_rep(pVGA),NA,NA,rep7b_rep(pVGA),NA,,,plasmid,MULTI-DRUG,
+RepA_pKPC-CAV1321,NA,NA,RepA_pKPC-CAV1321,NA,,,plasmid,MULTI-DRUG,
+repUS43_CDS12738(DOp1),NA,NA,repUS43_CDS12738(DOp1),NA,,,plasmid,MULTI-DRUG,
+rmtB,resfinder,AB103506,rmtB,rmtB,16S rRNA methyltransferase (G1405),G1405,chromosome,aminoglycoside,
+rmtB1,ncbi,NG_048058.1,rmtB1,rmtB,16S rRNA methyltransferase (G1405),G1406,chromosome,aminoglycoside,
+rmtB1,amrfinder,WP_012372818.1,rmtB1,rmtB,16S rRNA methyltransferase (G1405),G1406,chromosome,aminoglycoside,
+rmtB1,ncbi,NG_048058.1,rmtB1,rmtB,16S rRNA methyltransferase (G1405),G1407,chromosome,aminoglycoside,
+rmtB1,amrfinder,WP_012372818.1,rmtB1,rmtB,16S rRNA methyltransferase (G1405),G1407,chromosome,aminoglycoside,
+rmtE,resfinder,GU201947,rmtE,rmtE,16S rRNA methyltransferase (G1405),G1408,chromosome,aminoglycoside,
+rmtE1,ncbi,NG_050558.1,rmtE1,rmtE,16S rRNA methyltransferase (G1405),G1409,chromosome,aminoglycoside,
+rmtE1,amrfinder,WP_063866478.1,rmtE1,rmtE,16S rRNA methyltransferase (G1405),G1409,chromosome,aminoglycoside,
+rmtE1,ncbi,NG_050558.1,rmtE1,rmtE,16S rRNA methyltransferase (G1405),G1410,chromosome,aminoglycoside,
+rmtE1,amrfinder,WP_063866478.1,rmtE1,rmtE,16S rRNA methyltransferase (G1405),G1410,chromosome,aminoglycoside,
+rph,ncbi,NG_048066.1,rph,rifampin phosphotransferase,rifampin phosphotransferase,rph,chromosome,LEAF RUST,
+sat2,amrfinder,WP_000704156.1,SAT-2,streptothricin acetyltransferase (SAT),streptothricin acetyltransferase (SAT),SAT,chromosome,streptothricin,
+sat2_gen,ncbi,NG_048068.1,SAT-2,streptothricin acetyltransferase (SAT),streptothricin acetyltransferase (SAT),SAT,chromosome,streptothricin,
+smr,amrfinder,WP_063854743.1,smr,small multidrug resistance (SMR) antibiotic efflux pump,small multidrug resistance (SMR) antibiotic efflux pump,SMR,chromosome,MULTI-DRUG,
+spw,ncbi,NG_048075.1,ANT(9)-Ia,ANT(9)-Ia,ANT(9),ANT(9),chromosome,macrolide,
+sul1,ncbi,NG_048082.1,sul1,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul1,resfinder,EU780013,sul1,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul1,ncbi,NG_048094.1,sul1,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul1,ncbi,NG_048102.1,sul1,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul1,ncbi,NG_048084.1,sul1,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul1,ncbi,NG_048089.1,sul1,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul1,ncbi,NG_048085.1,sul1,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul1,ncbi,NG_048081.1,sul1,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul1,resfinder,U12338,sul1,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul1,ncbi,NG_048090.1,sul1,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul1,ncbi,NG_048091.1,sul1,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul1,amrfinder,WP_000259031.1,sul1,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul1,amrfinder,WP_000259018.1,sul1,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul1,amrfinder,WP_000259032.1,sul1,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul1,amrfinder,WP_063855066.1,sul1,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul10,resfinder,DQ143913,sul10,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul15,resfinder,AB281182,sul15,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul15,resfinder,EF667294,sul15,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul19,resfinder,AJ746361,sul19,sul1,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul2,ncbi,NG_048118.1,sul2,sul2,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul2,resfinder,HQ840942,sul2,sul2,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul2,ncbi,NG_051852.1,sul2,sul2,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul2,resfinder,AY034138,sul2,sul2,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul2,ncbi,A7J11_00971,sul2,sul2,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul2,ncbi,NG_048108.1,sul2,sul2,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul2,resfinder,AF542061,sul2,sul2,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul2,amrfinder,WP_001043265.1,sul2,sul2,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul2,amrfinder,WP_001043260.1,sul2,sul2,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul2,amrfinder,NA,sul2,sul2,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul24,resfinder,AJ514834,sul24,sul2,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul28,resfinder,AJ830714,sul28,sul2,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul3,ncbi,NG_048120.1,sul3,sul3,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul3,resfinder,AJ459418,sul3,sul3,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+sul3,amrfinder,WP_000034420.1,sul3,sul3,sulfonamide resistant sul,sul,chromosome,sulfonamide,
+tet(34),ncbi,NG_048129.1,tet34,tet34,tetracycline inactivation enzyme,tet,chromosome,tetracycline,
+tet(34),resfinder,AB061440,tet34,tet35,tetracycline inactivation enzyme,tet,chromosome,tetracycline,
+tet(A),ncbi,NG_048154.1,tet(A),tet(A),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(A),resfinder,AF534183,tet(A),tet(A),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(A),ncbi,NG_048153.1,tet(A),tet(A),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(A),ncbi,NG_048151.1,tet(A),tet(A),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(A),ncbi,NG_048150.1,tet(A),tet(A),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(A),resfinder,AJ313332,tet(A),tet(A),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(A),ncbi,NG_048155.1,tet(A),tet(A),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(A),resfinder,AY196695,tet(A),tet(A),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(A),amrfinder,WP_000804064.1,tet(A),tet(A),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(A),amrfinder,WP_000804063.1,tet(A),tet(A),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(B),ncbi,NG_048163.1,tet(B),tet(B),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(B),resfinder,AF326777,tet(B),tet(B),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(B),ncbi,NG_048173.1,tet(B),tet(B),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(B),resfinder,AP000342,tet(B),tet(B),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(B),ncbi,NG_048161.1,tet(B),tet(B),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(B),ncbi,A7J11_00078,tet(B),tet(B),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(B),amrfinder,WP_001089068.1,tet(B),tet(B),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(B),amrfinder,WP_001089064.1,tet(B),tet(B),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(B),amrfinder,WP_001089072.1,tet(B),tet(B),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(B),amrfinder,NA,tet(B),tet(B),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(C),ncbi,NG_048175.1,tet(C),tet(C),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(C),resfinder,AY046276,tet(C),tet(C),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(C),ncbi,NG_048181.1,tet(C),tet(C),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(C),resfinder,AF055345,tet(C),tet(C),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(C),amrfinder,WP_000841448.1,tet(C),tet(C),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(C),amrfinder,WP_000841446.1,tet(C),tet(C),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(D),ncbi,NG_048184.1,tet(D),tet(D),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(D),resfinder,AF467077,tet(D),tet(D),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(D),amrfinder,WP_001039466.1,tet(D),tet(D),major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(M),ncbi,NG_048218.1,tet(M),tetM,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(M),resfinder,U58985,tet(M),tetM,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(M),ncbi,NG_048237.1,tet(M),tetM,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(M),resfinder,X04388,tet(M),tetM,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(M),ncbi,NG_048211.1,tet(M),tetM,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(M),resfinder,X92947,tet(M),tetM,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(M),ncbi,NG_048229.1,tet(M),tetM,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(M),ncbi,NG_048234.1,tet(M),tetM,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(M),ncbi,NG_048244.1,tet(M),tetM,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(M),ncbi,NG_048214.1,tet(M),tetM,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(M),amrfinder,WP_063856111.1,tet(M),tetM,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(M),amrfinder,WP_063856397.1,tet(M),tetM,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(M),amrfinder,WP_063856393.1,tet(M),tetM,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+tet(M)2,resfinder,FR671418,tet(M),tetM,major facilitator superfamily (MFS) antibiotic efflux pump,MFS,chromosome,tetracycline,
+,,,,,,,,,      

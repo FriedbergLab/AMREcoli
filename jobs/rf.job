@@ -1,0 +1,25 @@
+#!/bin/bash
+
+# Copy/paste this job script into a text file and submit with the command:
+#    sbatch thefilename
+# job standard output will go to the file slurm-%j.out (where %j is the job ID)
+
+#SBATCH --time=8:00:00   # walltime limit (HH:MM:SS)
+#SBATCH --nodes=1   # number of nodes
+#SBATCH --ntasks-per-node=8# 36 processor core(s) per node 
+#SBATCH --mem=64G    # maximum memory per node
+#SBATCH --mail-user=hchung@iastate.edu   # email address
+#SBATCH --job-name="rf" # a nice readable name to give your job so you know what it is when you see it in the queue, instead of just numbers
+
+# LOAD MODULES, INSERT CODE, AND RUN YOUR PROGRAMS HERE
+module load gcc/10.2.0-zuvaafu
+module load r/4.0.4-p2m6dh4
+
+cd /work/idoerg/hchung/amr_analysis
+
+Rscript code/3_rf.R ItoR
+Rscript code/3_rf.R iq75
+#sbatch jobs/rf.job ItoR
+#sbatch jobs/rf.job iq75
+
+

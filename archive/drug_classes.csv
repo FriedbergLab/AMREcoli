@@ -1,0 +1,52 @@
+mic_id,class
+amikacin,aminoglycoside
+amoxicillin,beta lactam combo
+amoxicillin_clavulanic_acid,beta lactam combo
+ampicillin,beta lactam combo
+azithromycin,macrolide
+cefazolin,beta lactam combo
+cefovecin,beta lactam combo
+cefpodoxime,beta lactam combo
+ceftazidime,beta lactam combo
+ceftiofur,beta lactam combo
+cephalexin,beta lactam combo
+cephalothin,beta lactam combo
+chloramphenicol,phenicol
+chlortetracycline,tetracycline
+clarithromycin,macrolide
+clindamycin,lincomycin
+danofloxacin,fluoroquinolone
+doxycycline,tetracycline
+enrofloxacin,fluoroquinolone
+enrofloxacin_l,fluoroquinolone
+erythromycin,macrolide
+florfenicol,phenicol
+gamithromycin,aminoglycoside
+gentamicin,aminoglycoside
+imipenem,penam
+marbofloxacin,fluoroquinolone
+minocycline,tetracycline
+neomycin,macrolide
+nitrofurantoin,nitrofuran
+novobiocin,macrolide
+orbifloxacin,fluoroquinolone
+oxacillin,beta lactam combo
+oxytetracycline,tetracycline
+penicillin,beta lactam combo
+piperacillin_tazobactam,beta lactam combo
+pradofloxacin,fluoroquinolone
+rifampin,rifamicin
+spectinomycin,aminocyclitol
+streptomycin,aminoglycoside
+sulphadimethoxine,sulfonamide
+sulphathiazole,sulfonamide
+tetracycline,tetracycline
+tiamulin,pleuromutilin
+ticarcillin,beta lactam combo
+ticarcillin_clavulanic_acid,beta lactam combo
+tildipirosin,macrolide
+tilmicosin,macrolide
+trimethoprim_sulfamethoxazole,folate pathway antagonist
+tulathromycin,macrolide
+tylosin_tartrate,macrolide
+vancomycin,glycopeptide
