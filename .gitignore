@@ -1,3 +1,24 @@
+#
+*.csv
+*.RDS
+*.pdf
+*.out
+/code/5_clean.R
+# Job files
+/jobs
+
+# Data files
+/data
+
+# Output figires
+/outputs
+
+# Documents
+/docs
+
+# "Old" Code
+/archive
+
 # History files
 .Rhistory
 .Rapp.history
@@ -37,3 +58,4 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.Rprofile
