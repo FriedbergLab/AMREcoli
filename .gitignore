@@ -1,3 +1,27 @@
+# Files to ignore
+/code/5_clean.R # anonymizes data
+
+# Job files (for HPC work)
+/jobs
+
+# Data files (available on figshare)
+/data
+
+# Outputs (publication figures)
+/outputs
+
+# Documents (internal project reports)
+/docs
+
+# "Old" Code
+/archive
+
+# temp finals
+*.csv
+*.RDS
+*.pdf
+*.out
+
 # History files
 .Rhistory
 .Rapp.history
@@ -37,3 +61,4 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.Rprofile
