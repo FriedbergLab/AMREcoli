@@ -11,7 +11,7 @@ Data for analysis is available on figshare (link)
 
 - 2_elasticnet: fits six different elastic nets to sample data to predict isolate resistance. 
 
-- 3_power: estimates power for candidate predictors used in best fit elastic net model.
+- 3_power: estimates power for candidate  predictors used in best fit elastic net model.
 
 - 3_animal : calculates prevalence of antibiotic resistance in animals and determines significant differences in resistance proportion. 
 
